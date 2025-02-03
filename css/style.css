@@ -10527,7 +10527,7 @@ h5,
 }
 @media (max-width: 991.98px) {
   .ftco-navbar-light {
-    background: #000000 !important;
+    background: #F3F7EC !important;
     position: relative;
     top: 0;
     padding: 10px 15px;
@@ -10747,7 +10747,7 @@ h5,
   bottom: 0;
   content: "";
   opacity: 0.3;
-  background: #f1453d;
+  background: #1eaaf1;
 }
 .hero-wrap.hero-wrap-2 {
   height: 300px;
@@ -11908,7 +11908,9 @@ textarea.form-control {
   font-size: 44px;
   font-weight: 600;
   color: #b2d33f;
+
 }
+
 .heading-section h2 span {
   color: #0a80c2;
 }
@@ -11932,7 +11934,7 @@ textarea.form-control {
 }
 
 .heading-section.heading-section-black h2 {
-  color: #000000;
+  /* color: #000000; */
 }
 
 .hotel-img,
@@ -12877,9 +12879,9 @@ textarea.form-control {
 
 
 .span-class{
-   font-size: 1.1rem !important;
+   font-size: 1.3rem !important;
    color: #000 !important;
-   font-weight: 400 !important;
+   font-weight: 500 !important;
 }
 
 
